@@ -25,6 +25,12 @@ namespace SkolskiTurniri
             btnDodaj.Text = "Dodaj turnir";
             btnDodaj.Location = new Point(100, 130);
             this.Controls.Add(btnDodaj);
+            
+            btnDodaj.Click += (s, e) =>
+{
+    DodajTurnir prozor = new DodajTurnir();
+    prozor.Show();
+};
 
             Button btnRezultati = new Button();
             btnRezultati.Text = "Rezultati";

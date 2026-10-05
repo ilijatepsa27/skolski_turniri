@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilija tepsa\\SkolskiTurniri\\SkolskiTurniri.csproj": {}
+    "C:\\Users\\ilija tepsa\\Desktop\\SkolskiTurniri\\SkolskiTurniri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilija tepsa\\SkolskiTurniri\\SkolskiTurniri.csproj": {
+    "C:\\Users\\ilija tepsa\\Desktop\\SkolskiTurniri\\SkolskiTurniri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilija tepsa\\SkolskiTurniri\\SkolskiTurniri.csproj",
+        "projectUniqueName": "C:\\Users\\ilija tepsa\\Desktop\\SkolskiTurniri\\SkolskiTurniri.csproj",
         "projectName": "SkolskiTurniri",
-        "projectPath": "C:\\Users\\ilija tepsa\\SkolskiTurniri\\SkolskiTurniri.csproj",
+        "projectPath": "C:\\Users\\ilija tepsa\\Desktop\\SkolskiTurniri\\SkolskiTurniri.csproj",
         "packagesPath": "C:\\Users\\ilija tepsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilija tepsa\\SkolskiTurniri\\obj\\",
+        "outputPath": "C:\\Users\\ilija tepsa\\Desktop\\SkolskiTurniri\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilija tepsa\\AppData\\Roaming\\NuGet\\NuGet.Config"
