@@ -1,0 +1,14 @@
+C:\Users\ilija tepsa\SkolskiTurniri\bin\Debug\net10.0-windows\SkolskiTurniri.exe
+C:\Users\ilija tepsa\SkolskiTurniri\bin\Debug\net10.0-windows\SkolskiTurniri.deps.json
+C:\Users\ilija tepsa\SkolskiTurniri\bin\Debug\net10.0-windows\SkolskiTurniri.runtimeconfig.json
+C:\Users\ilija tepsa\SkolskiTurniri\bin\Debug\net10.0-windows\SkolskiTurniri.dll
+C:\Users\ilija tepsa\SkolskiTurniri\bin\Debug\net10.0-windows\SkolskiTurniri.pdb
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\SkolskiTurniri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\SkolskiTurniri.AssemblyInfoInputs.cache
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\SkolskiTurniri.AssemblyInfo.cs
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\SkolskiTurniri.csproj.CoreCompileInputs.cache
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\SkolskiTurniri.dll
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\refint\SkolskiTurniri.dll
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\SkolskiTurniri.pdb
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\SkolskiTurniri.genruntimeconfig.cache
+C:\Users\ilija tepsa\SkolskiTurniri\obj\Debug\net10.0-windows\ref\SkolskiTurniri.dll
